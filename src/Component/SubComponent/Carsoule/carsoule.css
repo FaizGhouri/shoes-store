@@ -1,0 +1,26 @@
+.carousel {
+    width: 100%;
+    position: relative;
+    top: 96px;
+    text-align: center;
+    background-color: rgba(245, 245, 245, 0.897);
+    padding: 8px;
+}
+
+.Car-item{
+    display: block;
+    justify-content: center;
+}
+
+.saveUp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.A{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    border-bottom: 1px solid black;
+    color: black !important;
+    text-decoration: none !important;
+}

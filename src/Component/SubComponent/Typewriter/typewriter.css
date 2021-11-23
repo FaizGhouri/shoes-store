@@ -1,0 +1,54 @@
+:root {
+    --bg-color: hsl(0 0% 95%);
+    --typrwriterSpeed: 5s;
+    --typewriterCharacter: 42;
+}
+
+.one {
+    display: grid;
+    text-align: center;
+    padding: 5px;
+    place-content: center;
+    background: var(--bg-color);
+    position: relative;
+    top: 95px;
+}
+
+h1 {
+    font-size: 15px !important;
+    position: relative;
+    width: max-content;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1::before, h1::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+h1::before {
+    background: var(--bg-color);
+    animation: typewrite var(--typrwriterSpeed) steps(var(--typewriterCharacter)) .7s forwards;
+}
+
+h1::after {
+    width: 0.125em;
+    background: black;
+    animation: typewrite var(--typrwriterSpeed) steps(var(--typewriterCharacter)) .7s forwards, blink 600ms steps(42) infinite;
+}
+
+@keyframes typewrite {
+    to {
+        left: 100%;
+    }
+}
+
+@keyframes blink {
+    to {
+        background: transparent;
+    }
+}

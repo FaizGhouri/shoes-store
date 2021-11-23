@@ -1,0 +1,114 @@
+.Main-Middle{
+    place-content: center;
+    padding: 0 20px;
+    border-top: 1px solid lightgray;
+    position: relative;
+    top: 99px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+
+.middle-image{
+    display: flex;
+    justify-content: center;
+}
+
+.Summer{
+    padding:0 55px;
+    position: relative;
+    top: 130px;
+}
+
+.Summer-img{
+    width: 200px;
+    height: 200px;
+}
+
+.SS{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.Summer-img1{
+    width: 400px;
+    height: 400px;
+}
+
+.member{
+    padding: 0 40px;
+    align-items: center;
+    position: relative;
+    top: 300px;
+}
+
+.benifits{
+    padding: 0 10px;
+}
+
+.fits{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.where{
+    text-align: center;
+    height: 500px;
+    background-color: rgb(245, 245, 245);
+    
+}
+
+.Athletes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: none;
+    font-size: 60px;
+}
+
+.Athl{
+    align-items: center;
+    place-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.two-btn{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.all-btn{
+    background-color: black;
+    color: white;
+    width: 90px;
+    padding: 8px 12px;
+    border-radius: 20px;
+    margin-left: 10px;
+    border: none;
+    font-size: 18px;
+}
+
+.all-btn:hover{
+    background-color: rgba(0, 0, 0, 0.678);
+}
+
+.Just{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+    top: 320px;
+}
+
+.do{
+    margin-left: 20px;
+    cursor: pointer;
+}

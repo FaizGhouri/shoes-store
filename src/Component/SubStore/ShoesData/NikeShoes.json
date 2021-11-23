@@ -1,0 +1,79 @@
+{
+    "Nike-Shoes-1" : {
+
+        "name" : "Nike Air Zoom Pegasus 38",
+        "shoeType" : "Men's Running Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f9a8bf44-6a52-4107-ba5f-78ed8118ee36/air-zoom-pegasus-38-mens-running-shoe-lq7PZZ.png",
+        "price" : "S120"
+    },
+
+    "Nike-Shoes-2" : {
+        "name": "Nike ZoomX Invincible Flyknit",
+        "shoeType" : "Men's Running Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/316ba76f-737b-4bc4-9893-4f8f4edea0d1/zoomx-invincible-run-flyknit-mens-running-shoe-NgvDVX.png",
+        "price" : "$180"
+    },
+
+    "Nike-Shoes-3" : {
+        "name": "Nike Blazer Mid '77 Vintage",
+        "shoeType" : "Men's Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/389b709e-5102-4e55-aa5d-07099b500831/blazer-mid-77-vintage-mens-shoe-nw30B2.png",
+        "price" : "$100"
+    },
+
+    "Nike-Shoes-4" : {
+        "name": "Nike Air Jordan 1 Mid",
+        "shoeType" : "Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bf3b25ba-719c-4326-a6b5-e44f593a7579/air-jordan-1-mid-shoe-BNc6lg.png",
+        "price" : "$115"
+    },
+
+    "Nike-Shoes-5" : {
+        "name": "Nike Dunk Low SE",
+        "shoeType" : "Men's Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1a6ade96-fab4-43f6-80d2-93f55654f36d/dunk-low-se-mens-shoe.png",
+        "price" : "$110"
+    },
+    "Nike-Shoes-6" : {
+        "name": "Nike Air VaporMax Plus",
+        "shoeType" : "Men's Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4451f859-2352-45f4-906f-280ef64b7efa/air-vapormax-plus-mens-shoe-nC0dzF.png",
+        "price" : "$200"
+    },
+    "Nike-Shoes-7" : {
+        "name": "Nike Air Max Genome",
+        "shoeType" : "Men's Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/626f8bef-21db-4aad-abbc-1807d3cefd02/air-max-genome-mens-shoe-hgsQFb.png",
+        "price" : "$170"
+    },
+    "Nike-Shoes-8" : {
+        "name": "Nike Air Max Plus",
+        "shoeType" : "Men's Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f4d248f4-bc72-4806-8419-6635404cac71/air-max-plus-mens-shoe-x9G2xF.png",
+        "price" : "$160"
+    },
+    "Nike-Shoes-9" : {
+        "name": "Kyrie 7",
+        "shoeType" : "Basketball Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c8b48606-ad2b-40bc-b423-6e0812ce800b/kyrie-7-basketball-shoe-nNMZ3b.png",
+        "price" : "$130"
+    },
+    "Nike-Shoes-10" : {
+        "name": "Nike ZoomX Vaporfly Next% 2",
+        "shoeType" : "Men's Racing Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5218dd66-7865-48c9-b4d9-87ed201eed2b/zoomx-vaporfly-next-2-mens-racing-shoe-cWdlvG.png",
+        "price" : "$250"
+    },
+    "Nike-Shoes-11" : {
+        "name": "Nike Air Force 1 '07",
+        "shoeType" : "Men's Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4f37fca8-6bce-43e7-ad07-f57ae3c13142/air-force-1-07-mens-shoe-5QFp5Z.png",
+        "price" : "$90"
+    },
+    "Nike-Shoes-12" : {
+        "name": "Nike Cosmic Unity",
+        "shoeType" : "Basketball Shoe",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cde221ba-ec30-4eb4-ae30-43ac0d548968/cosmic-unity-basketball-shoe-nDHKr4.png",
+        "price" : "$150"
+    }
+}

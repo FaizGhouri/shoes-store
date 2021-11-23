@@ -1,0 +1,74 @@
+{
+    "Adidas-Shoes-1": {
+        "name": "ULTRABOOST 21 SHOES ",
+        "shoeType": "Men's Running Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/2bf8635e35c24187b594ac8e011d6b11_9366/ultraboost-21-shoes.jpg",
+        "price": "S180"
+    },
+    "Adidas-Shoes-2": {
+        "name": "STAN SIMTH SHOES",
+        "shoeType": "Men's Originals Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/4e8ad905b6b446b896a3ac1e01049147_9366/stan-smith-shoes.jpg",
+        "price": "$85"
+    },
+    "Adidas-Shoes-3": {
+        "name": "ULTRABOOST SUMMER.RDY TOKYO SHOES",
+        "shoeType": "Men's Running Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/f39ed73a5d4346a19667ab4400afecf6_9366/ultraboost-summer.rdy-tokyo-shoes.jpg",
+        "price": "$180"
+    },
+    "Adidas-Shoes-4": {
+        "name": "OWN THE GAME SHOES",
+        "shoeType": "Basketball Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/feedd70f0c064622b616ad1e0167bea3_9366/ownthegame-shoes.jpg",
+        "price": "$65"
+    },
+    "Adidas-Shoes-5": {
+        "name": "FORM LOW SHOES",
+        "shoeType": "Men's Originals Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/9775786cd7b446af9ddcac5e004a275e_9366/forum-low-shoes.jpg",
+        "price": "$90"
+    },
+    "Adidas-Shoes-6": {
+        "name": "ZX 1K BOOST SHOES",
+        "shoeType": "Men's Originals Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/248809b011c44b499809acaa00e2f8da_9366/zx-1k-boost-shoes.jpg",
+        "price": "$100"
+    },
+    "Adidas-Shoes-7": {
+        "name": "NMD_R1 SHOES",
+        "shoeType": "Men's Originals Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/451c7765f2444936b152ac79011747c1_9366/nmd_r1-shoes.jpg",
+        "price": "$140"
+    },
+    "Adidas-Shoes-8": {
+        "name": "TERREX FREE HIKER PRIMEBLUE HIKING SHOES",
+        "shoeType": "Men's TERREX Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/decf44c7f89e49f998c0ac64014802a1_9366/terrex-free-hiker-primeblue-hiking-shoes.jpg",
+        "price": "$200"
+    },
+    "Adidas-Shoes-9": {
+        "name": "4D FUSIO SHOES",
+        "shoeType": "Men's Originals Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/ade458f8e69e4c06b0f2ac720125f57e_9366/4d-fusio-shoes.jpg",
+        "price": "$200"
+    },
+    "Adidas-Shoes-10": {
+        "name": "UTLRA4D SHOES",
+        "shoeType": "Men's Running Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/4013341d791f46a5a7bfabe5010d54ed_9366/ultra4d-shoes.jpg",
+        "price": "$220"
+    },
+    "Adidas-Shoes-11": {
+        "name": "X GHOSTED.1 FIRM GROUND CLEATS",
+        "shoeType": "Men's soccer Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/6deb0bb2b3734f5eb1cdac770104a84c_9366/x-ghosted.1-firm-ground-cleats.jpg",
+        "price": "$225"
+    },
+    "Adidas-Shoes-12": {
+        "name": "OZWEEGO SHOES",
+        "shoeType": "Men's Originals Shoe",
+        "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/3c930598e8784957a410aa76010d8421_9366/ozweego-shoes.jpg",
+        "price": "$110"
+    }
+}

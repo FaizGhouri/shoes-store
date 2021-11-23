@@ -1,0 +1,79 @@
+{
+    "Puma-Shoes-1" : {
+
+        "name" : "Speedcat LS Men's Motorsport Shoes",
+        "shoeType" : "Men's Motorsport Shoe",
+        "image" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/380173/01/sv01/fnd/PNA/fmt/png/Speedcat-LS-Men's-Motorsport-Shoes",
+        "price" : "S90"
+    },
+
+    "Puma-Shoes-2" : {
+        "name": "RS-DREAMER Shoes",
+        "shoeType" : "Men's Basketball Shoe",
+        "image" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/193990/02/sv01/fnd/PNA/fmt/png/RS-DREAMER-Basketball-Shoes",
+        "price" : "$125"
+    },
+
+    "Puma-Shoes-3" : {
+        "name": "Suede Classic XXI ",
+        "shoeType" : "Men's Sneaker",
+        "image" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/374915/07/sv01/fnd/PNA/fmt/png/Suede-Classic-XXI-Men's-Sneakers",
+        "price" : "$70"
+    },
+
+    "Puma-Shoes-4" : {
+        "name": "Wild Rider Layers Shoes",
+        "shoeType" : "Men's Sneaker",
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bf3b25ba-719c-4326-a6b5-e44f593a7579/air-jordan-1-mid-shoe-BNc6lg.png",
+        "price" : "$110"
+    },
+
+    "Puma-Shoes-5" : {
+        "name": "PUMA x HARIBO CA Pro",
+        "shoeType" : "Men's sneaker",
+        "image" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/382878/01/sv01/fnd/PNA/fmt/png/PUMA-x-HARIBO-CA-Pro-Men's-Sneakers",
+        "price" : "$80"
+    },
+    "Puma-Shoes-6" : {
+        "name": "Porsche Legacy DISC Rebirth ",
+        "shoeType" : "Men's Basketball Shoes",
+        "image" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/195370/01/sv01/fnd/PNA/fmt/png/Porsche-Legacy-DISC-Rebirth-Basketball-Shoes",
+        "price" : "$155"
+    },
+    "Puma-Shoes-7" : {
+        "name": "RS-X Toys ",
+        "shoeType" : "Men's Sneakers",
+        "image" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/369449/15/sv01/fnd/PNA/fmt/png/RS-X-Toys-Men's-Sneakers",
+        "price" : "$110"
+    },
+    "Puma-Shoes-8" : {
+        "name": "Deviate NITRO",
+        "shoeType" : "Men's Running Shoes",
+        "image" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/194449/01/sv01/fnd/PNA/fmt/png/Deviate-NITRO-Men's-Running-Shoes",
+        "price" : "$160"
+    },
+    "Puma-Shoes-9" : {
+        "name": "PWRFRAME OP-1 Cyber Sneakers",
+        "shoeType" : "Men's Sneaker",
+        "image" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/381599/02/sv01/fnd/PNA/fmt/png/PWRFRAME-OP-1-Cyber-Sneakers",
+        "price" : "$130"
+    },
+    "Puma-Shoes-10" : {
+        "name": "Electrify Nitro Shoes",
+        "shoeType" : "Men's Running Shoe",
+        "image" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/195173/03/sv01/fnd/PNA/fmt/png/Electrify-Nitro-Men's-Running-Shoes",
+        "price" : "$100"
+    },
+    "Puma-Shoes-11" : {
+        "name": "Neymar Jr FUTURE Z 1.1 FG/AG",
+        "shoeType" : "Men's Soccer Cleats",
+        "image" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/106842/01/sv01/fnd/PNA/fmt/png/Neymar-Jr-FUTURE-Z-1.1-FG/AG-Men's-Soccer-Cleats",
+        "price" : "$200"
+    },
+    "Puma-Shoes-12" : {
+        "name": "PUMA x AKA BOKU RS-Connect ",
+        "shoeType" : "Men's Sneakers",
+        "image" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/375968/01/sv01/fnd/PNA/fmt/png/PUMA-x-AKA-BOKU-RS-Connect-Sneakers",
+        "price" : "$120"
+    }
+}
